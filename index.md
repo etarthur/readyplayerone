@@ -1,13 +1,47 @@
 Welcome to the CS3043 group project site for *Ready Player One*!  
 Scroll down to learn more about *Ready Player One* and its relation to computing technologies.
+# Computing Technology
 
-# Computing Technologies
-## Existing
-  - ### Virtual Reality
-    - Virtual 3D interactive worlds already exist with the help of specialized I/O equipment and powerful computers,
-    users wear headsets and use controllers to interact with the virtual world [1]. 
-    ![[7]](assets/virtual_reality.jpg)
-    
+## Virtual Reality
+https://www.copperberg.com/mika-karaila-discusses-virtual-reality/
+
+### Technology:
+Current:
+  Virtual Reality technology is a growing phenomenon currently gated by the requirement of a moderately strong pc [E1]. The following specs are required to run oculus VR on “minimum settings”: Nvidia GTX 970, Intel i5-4950, 8gb+ RAM [E1]. These parts aren’t top of the line but the cost of VR also includes the environment needed to run the VR. All interactive VR environments require controllers or input devices on top of the headset required to display the image to the user [E2]. 
+
+--------------------------------------
+
+Future: 
+  Using the current requirements and specs of technology in a mobile phone can we determine if in 27 years VR will be possible with only a headset that contains the computing power?
+Specs requried to run Virtual Reality on a desktop currently:
+* The base clock speed for the gtx 970 is around 1050MHz[E3]
+* The base clock speed for the i5-4950 is 3.3GHz [E4]
+* 8 GBs of RAM needed
+
+Compared to current smartphone technology:
+
+* Current phones have around 1.8-2Ghz processor speed [E5]
+* Many phones have 4GBs of RAM [E5]
+* Currently smart phones don’t use dedicated graphics cards and instead use on board chips such as the Adreno 530 found in many high end android phones, and it has a processing clock speed around 650 MHz [E6]. 
+
+
+https://www.scribd.com/document/239903338/Multi-Screen-Revolution
+
+Visual shows that yes in 27 years we will definitely have the technology to run VR on headsets with computational power built in based on current specs and the trend of technology growth into the future.
+
+### Cost:
+Current: Nvidia estimates that 99% of computers in 2016 couldn’t run VR programs [E10]. Therefore a VR setup currently costs $600-800 for the VR equipment and another $1000-2000 for the computer that can run the VR programs [E7]. The range of the computer is from $1000 which are the minimum requirements and up to $2000 for a computer with recommended requirements [E7]. This means the buy in for VR is around $1700 dollars for entry level, and with evolving program requirements it would be much safer to buy in at $2700. 
+    The median household income of a U.S. family is $59,000 [E8]. So comparing the cost of a VR setup to a household income the calculated cost of a VR setup is 4.5% of a U.S. family income. Conclusively VR is currently too expensive to be a widespread technology.
+
+----------------------------
+Future: 
+Looking at graph [E9] it's obvious that the cost of personal computers and peripherals has been on the decline. This means that following this trend in 27 years in the future these products will be very cheap [E9]. As more and more companies start to develop VR technology the cost has continually gone down, now consumers may use their smartphone instead of a computer, this means the VR quality is lower but the fact remains the VR buy in is cheaper [E10]. 
+
+https://www.bls.gov/opub/ted/2015/long-term-price-trends-for-computers-tvs-and-related-items.htm
+
+Using these sources it is possible that in the future families of all income level may afford VR as seen in Ready Player One. There is ample evidence that the cost of VR will continually decline until 2045, with no evidence against it currently. Unless an unforeseen trend in increasing technology cost occurs, almost every consumer in the near future will be able to afford a VR setup.
+
+
   - ### Facial Scanning
     - iPhone X implemented facial recognition and scanning, but the current technology is not as precise as in the movie. Current technology limitations include having a hard time differentiating children's faces and family members[2]. However this technology is improving fast using machine learning. 
     ![[8]](assets/facial_scanning.jpg)
@@ -131,6 +165,27 @@ Words from movie people about computing and their movie...
 9. http://static.atimes.com/uploads/2018/02/iStock-886003872-630x378.jpg
 
 10. https://media.boingboing.net/wp-content/uploads/2018/01/VrChat-seizure.jpg
+
+E1. Kuchera, B. (2016, January 5). Nvidia: Virtual reality requires seven times the power of a normal game. Retrieved September 25, 2018, from https://www.polygon.com/2016/1/5/10719326/nvidia-virtual-reality-performance-power 
+
+E2. Sherman, W., & Craig, A. (2003). Understanding virtual reality interface, application, and design . Amsterdam ; Morgan Kaufmann Publishers.
+
+E3. Nvidia. (n.d.). GeForce GTX 970 Specifications. Retrieved September 25, 2018, from https://www.geforce.com/hardware/desktop-gpus/geforce-gtx-970/specifications 
+
+E4. Intel. (n.d.). Intel Core i5-4950 Processor. Retrieved September 25, 2018, from https://ark.intel.com/products/80815/Intel-Core-i5-4590-Processor-6M-Cache-up-to-3_70-GHz 
+
+E5. Understanding Smartphones Specs. (2017, December 28). Retrieved September 25, 2018, from http://androiddeveloper.galileo.edu/2017/12/28/understanding-smartphones-specs/ 
+
+E6. Notebook Check. (n.d.). Qualcomm Adreno 530. Retrieved September 25, 2018, from https://www.notebookcheck.net/Qualcomm-Adreno-530.156189.0.html 
+
+E7. Ackerman, D. (2016, June 25). The real cost of virtual reality. Retrieved September 25, 2018, from https://www.cnet.com/news/the-real-cost-of-virtual-reality/ 
+
+E8. Loudenback, T. (2017, September 12). Middle-class Americans made more money last year than ever before. Retrieved September 25, 2018, from https://www.businessinsider.com/us-census-median-income-2017-9 
+
+E9. Bureau of Labor Statistics. (2015, October 13). Long-term prices trends for computers, TVs, and related items. Retrieved September 25, 2018, from https://www.bls.gov/opub/ted/2015/long-term-price-trends-for-computers-tvs-and-related-items.htm 
+
+E10. Neiger, C. (2016, September 8). Virtual reality is too expensive for most people — but that's about to change. Retrieved September 25, 2018, from https://www.businessinsider.com/why-is-virtual-reality-so-expensive-2016-9 
+
 
 
 Made with love by broke college students.
